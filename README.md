@@ -1,0 +1,1 @@
+This repo is a dump of scripts I've used for issues and automation. I'm finally syncing them to eventually convert them to go in order to git gud. Don't judge me, these were done with a gun to the back of the head in the heat of the moment which is why I'm trying to redeem myself with something much nicer with potential to be used elsewhere.
